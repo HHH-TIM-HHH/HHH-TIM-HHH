@@ -1,27 +1,56 @@
-### Hey there, I'm TIM! 👋
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-```python
-# Fun fact: My code runs faster when I drink coffee ☕
-while True:
-    code()
-```
+###
 
-🚀 **Welcome to my GitHub profile!** Here you'll find a mix of creative projects, innovative ideas, and some chaotic but fun experiments. 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HHH-TIM-HHH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=HHH-TIM-HHH&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HHH-TIM-HHH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
-### 🌟 About Me:
-- 🧠 Passionate about coding, AI, and automation
-- 🎨 I love blending technology with creativity
-- 🔥 Constantly learning & pushing the limits of what's possible
-- 💡 Motto: **"If it works, don't touch it! (or maybe... refactor?)"**
+###
 
-### 📊 GitHub Stats:
-![TIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=HHH-TIM-HHH&show_icons=true&theme=radical)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-### 🚀 Latest Project:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TIM&repo=awesome-project&theme=dark)](https://github.com/TIM/awesome-project)
+###
 
-### 💬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/TIM)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/TIM)
+<img align="right" height="150" src="https://camo.githubusercontent.com/5441fbceab91562656b59b1146e6e673ee42af75924e86663a84916555b57620/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5154665839456a667261335a6d4e786836422f67697068792e676966"  />
 
-_"Keep coding, keep innovating!"_ ✨
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=flat" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/HHH-TIM-HHH/HHH-TIM-HHH/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=HHH-TIM-HHH&theme=merko" alt="Layout with last medium posts"  />
+</div>
+
+###
